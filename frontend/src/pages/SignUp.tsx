@@ -12,7 +12,7 @@ const SignUp = () => {
         </div>
 
         <h2 className="mb-6 text-2xl font-semibold text-green-800 text-center">
-          Welcome Back!
+          Join our community today!
         </h2>
 
         <SignupForm />
